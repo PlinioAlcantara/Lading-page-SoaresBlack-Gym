@@ -45,6 +45,11 @@ header{
     cursor: pointer;
 }
 
+.logo-image{
+    width: 300px;
+    height: auto;
+}
+
 .menu-content.list-itens {
     display: flex;
     list-style: none;
